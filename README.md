@@ -87,7 +87,7 @@
 </head>
 <body>
     <h2>SUNDUL BREW COFFE</h2>
-    <form action="submit_order.html" method="POST">
+    <form action="submit_order.html" method="get">
         
         <label for="name">Nama Pelanggan</label><br>
         <input type="text" id="name" name="name" placeholder="Nama"><br>
